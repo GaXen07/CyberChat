@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="聊天服务器（服务端）/聊天服务器（服务端）.vcxproj" Id="4726fa73-199c-4b55-91c8-58fcf7122936" />
+</Solution>

@@ -1,0 +1,5 @@
+﻿  UserChat.cpp
+D:\Code Project\VS Project\聊天服务器（客户端）\聊天服务器（客户端）\UserChat.cpp(37,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code Project\VS Project\聊天服务器（客户端）\聊天服务器（客户端）\UserChat.cpp(20,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Code Project\VS Project\聊天服务器（客户端）\聊天服务器（客户端）\UserChat.cpp(36,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  聊天服务器（客户端）.vcxproj -> D:\Code Project\VS Project\聊天服务器（客户端）\x64\Debug\聊天服务器（客户端）.exe
