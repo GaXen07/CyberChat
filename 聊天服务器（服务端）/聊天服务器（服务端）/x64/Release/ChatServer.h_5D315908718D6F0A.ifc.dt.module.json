@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\ChatServer.obj",
+            "outputs": [
+                "x64\\Release\\ChatServer.h_5D315908718D6F0A.ifc.dt.module.json",
+                "x64\\Release\\ChatServer.h_5D315908718D6F0A.ifc.dt.d.json",
+                "x64\\Release\\ChatServer.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Code Project\\VS Project\\聊天服务器（服务端）\\聊天服务器（服务端）\\ChatServer.h",
+                    "source-path": "d:\\code project\\vs project\\聊天服务器（服务端）\\聊天服务器（服务端）\\chatserver.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
